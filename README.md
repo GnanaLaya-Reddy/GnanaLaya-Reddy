@@ -1,7 +1,6 @@
 ## Hi,I'm Laya Reddy✨
 🌱 I’m currently a student in JNTUH ...<br>
-📞 Can reach me via( https://www.instagram.com/ghijkl.r3045/)<br>
-⚡ Fun fact: I'm the kind of person who turns challenges into creative victories.Whether it's crafting sleek web apps, exploring 3D modelling, or mastering software tricks, I always find a way to make it look easy- and cool.
+⚡ Fun fact: I'm the kind of person who turns challenges into creative victories.Whether it's crafting sleek web apps, exploring 3D modelling, AI pipelines or mastering software tricks, I always find a way to make it look easy- and cool.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:layareddypadala@gmail.com) 
